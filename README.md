@@ -13,8 +13,8 @@
 <!-- ==================== ACTION & SOCIAL PILLS ==================== -->
 <p align="center">
   <a href="https://gregoosec.heptacorenet.co.tz"><img src="https://img.shields.io/badge/PORTFOLIO-gregoosec.heptacorenet.co.tz-0A192F?style=for-the-badge&logo=googlechrome&logoColor=00F5D4" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/gregory-george"><img src="https://img.shields.io/badge/LINKEDIN-in%2Fgregory--george-0A192F?style=for-the-badge&logo=linkedin&logoColor=FFD166" alt="LinkedIn" /></a>
-  <a href="https://x.com/gregootz_"><img src="https://img.shields.io/badge/X-@gregootz__-0A192F?style=for-the-badge&logo=x&logoColor=00F5D4" alt="X" /></a>
+  <a href="https://linkedin.com/in/gregory-george-843829322"><img src="https://img.shields.io/badge/LINKEDIN-in%2Fgregory--george-0A192F?style=for-the-badge&logo=linkedin&logoColor=FFD166" alt="LinkedIn" /></a>
+  <a href="https://x.com/gregootz_"><img src="https://img.shields.io/badge/@gregootz__-0A192F?style=for-the-badge&logo=x&logoColor=00F5D4" alt="X" /></a>
   <a href="https://instagram.com/gregootz_"><img src="https://img.shields.io/badge/INSTAGRAM-@gregootz__-0A192F?style=for-the-badge&logo=instagram&logoColor=FFD166" alt="Instagram" /></a>
 </p>
 
