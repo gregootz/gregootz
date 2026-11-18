@@ -1,12 +1,12 @@
 <!-- ==================== ANIMATED CYBER HEADER ==================== -->
 <div align="center">
-  <img src="./assets/banner.png" width="100%" alt="Gregory G. Machiwa - Cybersecurity & Digital Forensics Engineer | Full-Stack Developer" />
+  <img src="./banner.jpeg" width="100%" alt="Gregory G. Machiwa - Cybersecurity & Digital Forensics Engineer | Full-Stack Developer" />
 </div>
 
 <!-- ==================== LIVE TERMINAL TYPING ==================== -->
 <div align="center">
   <a href="https://gregoosec.heptacorenet.co.tz">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=42&lines=root%40gregootz%3A~%23+.%2Farchitect_secure_web_and_mobile_systems.sh;root%40gregootz%3A~%23+.%2Frun_forensic_artifact_authentication.py;root%40gregootz%3A~%23+Lead+Developer+%40+Heptacorenet+Technologies+%7C+Remote" alt="Terminal Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=42&lines=root%40gregootz%3A~%23+.%2Farchitect_secure_web_and_mobile_systems.sh;root%40gregootz%3A~%23+.%2Frun_forensic_artifact_authentication.py;root%40gregootz%3A~%23+Full-Stack+Developer+%7C+Cybersecurity+Specialist" alt="Terminal Typing Animation" />
   </a>
 </div>
 
